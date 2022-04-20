@@ -4,6 +4,5 @@
 	
 
 [![Hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanakim120)](https://github.com/hanakim120/github-readme-stats)
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanakim120&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/></a>
 
 </div>
